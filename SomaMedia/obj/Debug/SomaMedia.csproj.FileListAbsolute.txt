@@ -1,0 +1,7 @@
+C:\Users\Alves\source\repos\SomaMedia\bin\Debug\SomaMedia.exe.config
+C:\Users\Alves\source\repos\SomaMedia\bin\Debug\SomaMedia.exe
+C:\Users\Alves\source\repos\SomaMedia\bin\Debug\SomaMedia.pdb
+C:\Users\Alves\source\repos\SomaMedia\obj\Debug\SomaMedia.csproj.AssemblyReference.cache
+C:\Users\Alves\source\repos\SomaMedia\obj\Debug\SomaMedia.csproj.CoreCompileInputs.cache
+C:\Users\Alves\source\repos\SomaMedia\obj\Debug\SomaMedia.exe
+C:\Users\Alves\source\repos\SomaMedia\obj\Debug\SomaMedia.pdb
