@@ -1,0 +1,7 @@
+C:\Users\Alves\source\repos\DanceGame\bin\Debug\DanceGame.exe.config
+C:\Users\Alves\source\repos\DanceGame\bin\Debug\DanceGame.exe
+C:\Users\Alves\source\repos\DanceGame\bin\Debug\DanceGame.pdb
+C:\Users\Alves\source\repos\DanceGame\obj\Debug\DanceGame.csproj.AssemblyReference.cache
+C:\Users\Alves\source\repos\DanceGame\obj\Debug\DanceGame.csproj.CoreCompileInputs.cache
+C:\Users\Alves\source\repos\DanceGame\obj\Debug\DanceGame.exe
+C:\Users\Alves\source\repos\DanceGame\obj\Debug\DanceGame.pdb
